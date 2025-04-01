@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "X+NxCPd+n8O6bAt5vFVyTLQcro+85NtQoDZgE46cbXA=",
+  "Hash": "VZMz+Dvl9xakHwU/kQUk5SzGrjb9zHRhy4z6fqf3aHM=",
   "Source": "Tienda_Cece",
   "BasePath": "_content/Tienda_Cece",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "Tienda_Cece\\wwwroot",
       "Source": "Tienda_Cece",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "Pattern": "**"
     }
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "C:\\Users\\PC MASTER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Tienda_Cece.styles.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Tienda_Cece.styles.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "Tienda_Cece.styles.css",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Tienda_Cece.styles.css"
+      "OriginalItemSpec": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Tienda_Cece.styles.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Tienda_Cece.bundle.scp.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Tienda_Cece.bundle.scp.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "Tienda_Cece.bundle.scp.css",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Tienda_Cece.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Tienda_Cece.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\comprobante\\ejemploComprobante.pdf",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\comprobante\\ejemploComprobante.pdf",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "comprobante/ejemploComprobante.pdf",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\comprobante\\ejemploComprobante.pdf"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\css\\sb-admin-2.min.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\css\\sb-admin-2.min.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "css/sb-admin-2.min.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\css\\sb-admin-2.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\css\\site.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\css\\style.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\anillo.jpg",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\anillo.jpg",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "img/anillo.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\img\\anillo.jpg"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\aretes.jpg",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\aretes.jpg",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "img/aretes.jpg",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aretes.jpg"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\carousel\\ca1.png",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\carousel\\ca1.png",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "img/carousel/ca1.png",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carousel\\ca1.png"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\carousel\\ca2.jpg",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\carousel\\ca2.jpg",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "img/carousel/ca2.jpg",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carousel\\ca2.jpg"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\carousel\\ca2.png",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\carousel\\ca2.png",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "img/carousel/ca2.png",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carousel\\ca2.png"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\carousel\\ca3.png",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\carousel\\ca3.png",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "img/carousel/ca3.png",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carousel\\ca3.png"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\cart-page-header-img.jpg",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\cart-page-header-img.jpg",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "img/cart-page-header-img.jpg",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cart-page-header-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\ceceLogo.png",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\ceceLogo.png",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "img/ceceLogo.png",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ceceLogo.png"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\collar.jpg",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\collar.jpg",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "img/collar.jpg",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\img\\collar.jpg"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\favicon.ico",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\favicon.ico",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "img/favicon.ico",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\icon-image-not-found.jpg",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\icon-image-not-found.jpg",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "img/icon-image-not-found.jpg",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon-image-not-found.jpg"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\inicioSesion.jpg",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\img\\inicioSesion.jpg",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "img/inicioSesion.jpg",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\img\\inicioSesion.jpg"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\js\\demo\\chart-area-demo.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\js\\demo\\chart-area-demo.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "js/demo/chart-area-demo.js",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\js\\demo\\chart-area-demo.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\js\\demo\\chart-bar-demo.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\js\\demo\\chart-bar-demo.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "js/demo/chart-bar-demo.js",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\js\\demo\\chart-bar-demo.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\js\\demo\\chart-pie-demo.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\js\\demo\\chart-pie-demo.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "js/demo/chart-pie-demo.js",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\js\\demo\\chart-pie-demo.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\js\\demo\\datatables-demo.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\js\\demo\\datatables-demo.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "js/demo/datatables-demo.js",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\js\\demo\\datatables-demo.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\js\\main.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\js\\sb-admin-2.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\js\\sb-admin-2.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "js/sb-admin-2.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\js\\sb-admin-2.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\js\\sb-admin-2.min.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\js\\sb-admin-2.min.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "js/sb-admin-2.min.js",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\js\\sb-admin-2.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\js\\site.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\easing\\easing.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\easing\\easing.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/easing/easing.js",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\easing\\easing.min.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\easing\\easing.min.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/easing/easing.min.js",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/lightbox/css/lightbox.min.css",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\lightbox\\css\\lightbox.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\lightbox\\images\\close.png",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/lightbox/images/close.png",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\lightbox\\images\\close.png"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\lightbox\\images\\loading.gif",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/lightbox/images/loading.gif",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\lightbox\\images\\loading.gif"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\lightbox\\images\\next.png",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/lightbox/images/next.png",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\lightbox\\images\\next.png"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\lightbox\\images\\prev.png",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/lightbox/images/prev.png",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\lightbox\\images\\prev.png"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/lightbox/js/lightbox.min.js",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\lightbox\\js\\lightbox.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/owlcarousel/assets/ajax-loader.gif",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.css",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.min.css",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.css",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.css",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.min.css",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/owlcarousel/assets/owl.video.play.png",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\LICENSE",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/owlcarousel/LICENSE",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/owlcarousel/owl.carousel.js",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\waypoints\\links.php",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\waypoints\\links.php",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/waypoints/links.php",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\waypoints\\links.php"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\lib\\waypoints\\waypoints.min.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "lib/waypoints/waypoints.min.js",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\chart.js\\Chart.bundle.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\chart.js\\Chart.bundle.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "vendor/chart.js/Chart.bundle.js",
       "AssetKind": "All",
@@ -3171,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\chart.js\\Chart.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\chart.js\\Chart.bundle.min.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\chart.js\\Chart.bundle.min.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "vendor/chart.js/Chart.bundle.min.js",
       "AssetKind": "All",
@@ -3190,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\chart.js\\Chart.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\chart.js\\Chart.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\chart.js\\Chart.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "vendor/chart.js/Chart.js",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\chart.js\\Chart.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\chart.js\\Chart.min.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\chart.js\\Chart.min.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "vendor/chart.js/Chart.min.js",
       "AssetKind": "All",
@@ -3228,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\chart.js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\jquery\\jquery.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\jquery\\jquery.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "vendor/jquery/jquery.js",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\jquery\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\jquery\\jquery.min.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "vendor/jquery/jquery.min.js",
       "AssetKind": "All",
@@ -3266,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\jquery\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\jquery\\jquery.min.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\jquery\\jquery.min.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "vendor/jquery/jquery.min.map",
       "AssetKind": "All",
@@ -3285,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\jquery\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\jquery\\jquery.slim.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\jquery\\jquery.slim.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "vendor/jquery/jquery.slim.js",
       "AssetKind": "All",
@@ -3304,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\jquery\\jquery.slim.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "vendor/jquery/jquery.slim.min.js",
       "AssetKind": "All",
@@ -3323,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\jquery\\jquery.slim.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\jquery\\jquery.slim.min.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\jquery\\jquery.slim.min.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "vendor/jquery/jquery.slim.min.map",
       "AssetKind": "All",
@@ -3342,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\jquery\\jquery.slim.min.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\jquery-easing\\jquery.easing.compatibility.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\jquery-easing\\jquery.easing.compatibility.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "vendor/jquery-easing/jquery.easing.compatibility.js",
       "AssetKind": "All",
@@ -3361,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\jquery-easing\\jquery.easing.compatibility.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\jquery-easing\\jquery.easing.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\jquery-easing\\jquery.easing.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "vendor/jquery-easing/jquery.easing.js",
       "AssetKind": "All",
@@ -3380,10 +3380,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\jquery-easing\\jquery.easing.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\jquery-easing\\jquery.easing.min.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\jquery-easing\\jquery.easing.min.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "vendor/jquery-easing/jquery.easing.min.js",
       "AssetKind": "All",
@@ -3399,10 +3399,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\jquery-easing\\jquery.easing.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\js\\bootstrap.bundle.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "vendor/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -3418,10 +3418,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\js\\bootstrap.bundle.js.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "vendor/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -3437,10 +3437,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\js\\bootstrap.bundle.min.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "vendor/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -3456,10 +3456,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "vendor/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -3475,10 +3475,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\js\\bootstrap.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "vendor/js/bootstrap.js",
       "AssetKind": "All",
@@ -3494,10 +3494,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\js\\bootstrap.js.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "vendor/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3513,10 +3513,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\js\\bootstrap.min.js",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "vendor/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3532,10 +3532,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\vendor\\js\\bootstrap.min.js.map",
       "SourceId": "Tienda_Cece",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\wwwroot\\",
       "BasePath": "_content/Tienda_Cece",
       "RelativePath": "vendor/js/bootstrap.min.js.map",
       "AssetKind": "All",

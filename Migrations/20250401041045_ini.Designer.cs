@@ -12,8 +12,8 @@ using Tienda_Cece.Models;
 namespace Tienda_Cece.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240725035552_INICIAL")]
-    partial class INICIAL
+    [Migration("20250401041045_ini")]
+    partial class ini
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

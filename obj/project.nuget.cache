@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BMFT8xzwE4PtIqryD63sNeBnqcqZywOoAgI0pv+DBoMJ/Pg8ef2l78fe+7KcePGYMjFmEOyzoRs/mvqtSLKmew==",
+  "dgSpecHash": "UtK7EG0I5UfGiL6TQQJ2NvqVEr19QzDBrI999dJHdFOj2DOBKp8hCwrw32D941yQL0W00eUuPW0RVr7ixX6Brw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC MASTER\\Documents\\1- DISEÑO Y DESARROLLO\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece.csproj",
+  "projectFilePath": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC MASTER\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\PC MASTER\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

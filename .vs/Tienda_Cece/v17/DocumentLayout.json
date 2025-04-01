@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2C169A-39E7-4CF3-8B38-9788C585BCDF}|Tienda_Cece.csproj|c:\\users\\pc master\\documents\\proyectos 2025\\tienda_cece_completo\\tienda_cece\\tienda_cece\\tienda_cece\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2C169A-39E7-4CF3-8B38-9788C585BCDF}|Tienda_Cece.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\PC MASTER\\Documents\\PROYECTOS 2025\\Tienda_Cece_COMPLETO\\Tienda_Cece\\Tienda_Cece\\Tienda_Cece\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T04:19:05.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
