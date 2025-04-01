@@ -1,0 +1,89 @@
+﻿@page
+@model RegisterModel
+
+@{
+    ViewData["Title"] = "Register";
+    Layout = null;
+}
+
+<head>
+    <!-- Icon Font Stylesheet -->
+    <link rel="stylesheet"
+          href="https://use.fontawesome.com/releases/v6.4.2/css/all.css"
+          crossorigin="anonymous" />
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Template Stylesheet -->
+    <link href="~/css/style.css" rel="stylesheet" />
+
+</head>
+<div class="col-12 ms-3 mt-3">
+    <div class="d-grid justify-content-start">
+        <a asp-controller="Home" asp-action="Index" class="btn fs-6">  <i class="fa-solid fa-chevron-left"></i> Home</a>
+    </div>
+</div>
+
+<section class="py-2 py-md-5 py-xl-8">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="mb-5">
+                    <h2 class="display-5 fw-bold text-center">Registro de Usuario</h2>
+                    <p class="text-center m-0">¿Ya tiene una cuenta? <a id="login" asp-area="Identity" asp-page="/Account/Login">Iniciar sesión aquí</a></p>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-12 col-lg-10 col-xl-8">
+                <div class="row gy-5 justify-content-center">
+                    <div class="col-12 col-lg-5">
+                        <form id="account" method="post">
+                            <div class="row gy-3 overflow-hidden">
+                                <div class="col-12">
+                                    <div class="form-floating mb-3">
+                                        <input asp-for="Input.Email" class="form-control border-0 border-bottom rounded-0" placeholder="name@example.com" required>
+                                        <label asp-for="Input.Email" class="form-label">Correo electrónico</label>
+                                        <span asp-validation-for="Input.Email" class="text-danger"></span>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-floating mb-3">
+                                        <input asp-for="Input.Password" class="form-control border-0 border-bottom rounded-0" placeholder="Contraseña" required>
+                                        <label asp-for="Input.Password" class="form-label">Contraseña</label>
+                                        <span asp-validation-for="Input.Password" class="text-danger"></span>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-floating mb-3">
+                                        <input asp-for="Input.ConfirmPassword" class="form-control border-0 border-bottom rounded-0" placeholder="Confirmar contraseña" required>
+                                        <label asp-for="Input.ConfirmPassword" class="form-label">Confirmar contraseña</label>
+                                        <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="d-grid">
+                                        <button class="btn btn-lg bg-secondary text-light rounded-0 fs-6" type="submit">Registrarse</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="col-12 col-lg-2 d-flex align-items-center justify-content-center gap-3 flex-lg-column">
+                        <div class="bg-dark h-100 d-none d-lg-block" style="width: 1px; --bs-bg-opacity: .1;"></div>
+                        <div class="bg-dark w-100 d-lg-none" style="height: 1px; --bs-bg-opacity: .1;"></div>
+                    </div>
+                    <div class="col-12 col-lg-5 d-flex align-items-center">
+                        <img src="/img/inicioSesion.jpg" alt="" style="width: 30rem; height:20rem;">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

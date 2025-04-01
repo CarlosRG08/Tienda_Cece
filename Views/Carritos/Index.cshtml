@@ -1,0 +1,174 @@
+﻿@model Tienda_Cece.Models.Carrito
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrito de Compras</title>
+    <!-- Incluye Bootstrap CSS para estilos modernos -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .cart-item img {
+            width: 250px; /* Ajusta el tamaño según tu preferencia */
+            height: 250px;
+            object-fit: cover;
+            border-radius: 8px;
+        }
+
+        .table thead th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+        }
+
+        .table tbody tr {
+            transition: background-color 0.3s ease;
+        }
+
+        .table tbody tr:hover {
+            background-color: #f1f1f1;
+        }
+
+        .btn-custom {
+            background-color: #981515; /* Color personalizado */
+            color: white;
+            width: 100%; /* Ajusta el ancho del botón */
+        }
+
+        .btn-custom:hover {
+            background-color: #9e2532; /* Color personalizado al pasar el ratón */
+            color: white; /* Mantén el color del texto */
+        }
+
+        .card {
+            border: none;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 2rem;
+            margin-bottom: 1rem;
+        }
+
+        .button-group {
+            display: flex;
+            justify-content: space-between;
+            gap: 10px;
+        }
+
+        .button-group button, .button-group a {
+            flex-grow: 1;
+            margin: 0;
+        }
+    </style>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.6.0.min.js"></script> <!-- Incluye jQuery -->
+</head>
+<body>
+    <div class="container mt-4 pt-5">
+        <h2 class="mb-4 pt-5">Carrito de Compras</h2>
+        @if (Model.Items.Count == 0)
+        {
+            <div class="alert alert-info" role="alert">
+                No hay productos en el carrito.
+            </div>
+        }
+        else
+        {
+            <div class="card pt-5">
+                <!-- Formulario para actualizar cantidades y eliminar productos individuales -->
+                <form id="cart-form" asp-controller="Carritos" asp-action="RemoveFromCart" method="post">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>Imagen</th>
+                                <th>Producto</th>
+                                <th>Cantidad</th>
+                                <th>Precio Unitario</th>
+                                <th>Subtotal</th>
+                                <th>Acciones</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.Items)
+                            {
+                                <tr>
+                                    <td class="cart-item">
+                                        <img src="@Url.Action("GetImage", "Carritos", new { id = item.ID_Producto?.Id_Producto })" alt="@item.ID_Producto?.Nombre_Producto" />
+                                    </td>
+                                    <td>@item.ID_Producto?.Nombre_Producto</td>
+                                    <td>
+                                        <input type="number" name="quantity_@item.Id_Item" value="@item.Cant_Producto" class="form-control quantity-input" min="1" max="@item.ID_Producto?.Cantidad_Stock" data-price="@item.ID_Producto?.Precio_Unitario" data-item-id="@item.Id_Item" />
+                                        <span class="text-danger" style="font-size: 0.8rem;">@(item.Cant_Producto > item.ID_Producto?.Cantidad_Stock ? $"Máx. disponible: {item.ID_Producto.Cantidad_Stock}" : "")</span>
+                                    </td>
+                                    <td>@item.ID_Producto?.Precio_Unitario.ToString("C")</td>
+                                    <td class="subtotal">@((item.Cant_Producto * item.ID_Producto?.Precio_Unitario).Value.ToString("C"))</td>
+                                    <td>
+                                        <form asp-controller="Carritos" asp-action="RemoveFromCart" method="post">
+                                            <input type="hidden" name="itemId" value="@item.Id_Item" />
+                                            <button type="submit" class="btn btn-custom btn-sm">Eliminar</button>
+                                        </form>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <td colspan="5" class="text-end"><strong>Total</strong></td>
+                                <td id="cart-total">@Model.Total.ToString("C")</td>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </form>
+
+                <div class="button-group mt-3">
+                    <!-- Formulario para eliminar todos los productos del carrito -->
+                    <form asp-controller="Carritos" asp-action="RemoveFromCart" method="post" style="flex-grow: 1;">
+                        <input type="hidden" name="itemId" value="0" /> <!-- Valor 0 indica que se eliminarán todos los productos -->
+                        <button type="submit" class="btn btn-custom">Eliminar Carrito</button>
+                    </form>
+
+                    <a asp-controller="Productos" asp-action="Productos" class="btn btn-custom">Seguir Comprando</a>
+
+                    <a asp-controller="Pagos" asp-action="RealizarPago" class="btn btn-custom">Realizar Pago</a>
+                </div>
+            </div>
+        }
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            $('.quantity-input').on('change', function () {
+                var quantityInput = $(this);
+                var itemId = quantityInput.data('item-id');
+                var quantity = quantityInput.val();
+                var price = parseFloat(quantityInput.data('price'));
+                var subtotalCell = quantityInput.closest('tr').find('.subtotal');
+                var totalCell = $('#cart-total');
+
+                $.ajax({
+                    url: '@Url.Action("UpdateCart", "Carritos")',
+                    type: 'POST',
+                    data: { ['quantity_' + itemId]: quantity },
+                    success: function (result) {
+                        // Actualiza el subtotal del artículo
+                        var subtotal = quantity * price;
+                        subtotalCell.text(subtotal.toLocaleString('es-ES', { style: 'currency', currency: 'CRC' }));
+
+                        // Actualiza el total del carrito
+                        var total = 0;
+                        $('.quantity-input').each(function () {
+                            var qty = $(this).val();
+                            var prc = parseFloat($(this).data('price'));
+                            total += qty * prc;
+                        });
+                        totalCell.text(total.toLocaleString('es-ES', { style: 'currency', currency: 'CRC' }));
+
+                        console.log('Cantidad actualizada correctamente.');
+                    },
+                    error: function (xhr, status, error) {
+                        console.log('Error al actualizar la cantidad:', error);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

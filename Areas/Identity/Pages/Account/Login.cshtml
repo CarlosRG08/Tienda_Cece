@@ -1,0 +1,92 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+    Layout = null;
+}
+
+<head>
+    <!-- Icon Font Stylesheet -->
+    <link rel="stylesheet"
+          href="https://use.fontawesome.com/releases/v6.4.2/css/all.css"
+          crossorigin="anonymous" />
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Template Stylesheet -->
+    <link href="~/css/style.css" rel="stylesheet" />
+
+</head>
+
+<div class="col-12 ms-3 mt-3">
+    <div class="d-grid justify-content-start">
+        <a asp-controller="Home" asp-action="Index" class="btn fs-6">  <i class="fa-solid fa-chevron-left"></i> Home</a>
+    </div>
+</div>
+<section class="py-3 py-md-5 py-xl-8">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="mb-5">
+                    <h2 class="display-5 fw-bold text-center">Inicio Sesión</h2>
+                    <p class="text-center m-0">¿No tiene una cuenta? <a id="register" asp-area="Identity" asp-page="/Account/Register">Registrarse aquí</a></p>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-12 col-lg-10 col-xl-8">
+                <div class="row gy-5 justify-content-center">
+                    <div class="col-12 col-lg-5">
+                        <section>
+                            <form id="account" method="post">
+                                <h2>Use una cuenta local para iniciar sesión</h2>
+                                <hr />
+                                <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+                                <div class="form-floating mb-3">
+                                    <input asp-for="Input.Email" class="form-control border-0 border-bottom rounded-0" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                                    <label asp-for="Input.Email" class="form-label">Correo electrónico</label>
+                                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                                </div>
+                                <div class="form-floating mb-3">
+                                    <input asp-for="Input.Password" class="form-control border-0 border-bottom rounded-0" autocomplete="current-password" aria-required="true" placeholder="password" />
+                                    <label asp-for="Input.Password" class="form-label">Contraseña</label>
+                                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                                </div>
+                                <div class="checkbox mb-3">
+                                    <label asp-for="Input.RememberMe" class="form-label">
+                                        <input class="form-check-input" asp-for="Input.RememberMe" />
+                                        @Html.DisplayNameFor(m => m.Input.RememberMe)
+                                    </label>
+                                </div>
+                                <div>
+                                    <button id="login-submit" type="submit" class="w-100 btn btn-lg bg-secondary text-light rounded-0 fs-6">Iniciar sesión</button>
+                                </div>
+                                <div>
+                                    <p>
+                                        <a id="forgot-password" asp-page="./ForgotPassword" class="link-secondary text-decoration-none">¿Olvido su contraseña? <strong>Ingrese aquí</strong></a>
+                                    </p>
+                                    <p>
+                                        <a id="resend-confirmation" asp-page="./ResendEmailConfirmation" class="link-secondary text-decoration-none">Reenviar correo electrónico de confirmación</a>
+                                    </p>
+                                </div>
+                            </form>
+                        </section>
+                    </div>
+                    <div class="col-12 col-lg-2 d-flex align-items-center justify-content-center gap-3 flex-lg-column">
+                        <div class="bg-dark h-100 d-none d-lg-block" style="width: 1px; --bs-bg-opacity: .1;"></div>
+                        <div class="bg-dark w-100 d-lg-none" style="height: 1px; --bs-bg-opacity: .1;"></div>
+                    </div>
+                    <div class="col-12 col-lg-5 d-flex align-items-center">
+                        <img src="/img/inicioSesion.jpg" alt="" style="width: 30rem; height:20rem;">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

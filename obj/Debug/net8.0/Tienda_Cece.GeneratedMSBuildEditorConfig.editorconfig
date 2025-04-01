@@ -1,0 +1,315 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Tienda_Cece
+build_property.RootNamespace = Tienda_Cece
+build_property.ProjectDir = C:\Users\PC MASTER\Documents\1- DISEÑO Y DESARROLLO\Tienda_Cece_COMPLETO\Tienda_Cece\Tienda_Cece\Tienda_Cece\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\PC MASTER\Documents\1- DISEÑO Y DESARROLLO\Tienda_Cece_COMPLETO\Tienda_Cece\Tienda_Cece\Tienda_Cece
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxFeHRlcm5hbExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/Lockout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGgyZmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGVsZXRlUGVyc29uYWxEYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGlzYWJsZTJmYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRG93bmxvYWRQZXJzb25hbERhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcR2VuZXJhdGVSZWNvdmVyeUNvZGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUmVzZXRBdXRoZW50aWNhdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2hvd1JlY292ZXJ5Q29kZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1N0YXR1c01lc3NhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Carritos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycml0b3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Categorias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Compras/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Contacto/Gracias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdG9cR3JhY2lhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Contacto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Empleados/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Favoritos/Favoritos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF2b3JpdG9zXEZhdm9yaXRvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Home/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Incapacidades/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jYXBhY2lkYWRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Productos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Productos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Productos/Productos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXFByb2R1Y3Rvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Productos/Promociones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXFByb21vY2lvbmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Productos/Tendencias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXFRlbmRlbmNpYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Producto_Imagen/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9fSW1hZ2VuXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Proveedores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Puestos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVlc3Rvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Resenia/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZW5pYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Resenia/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZW5pYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Resenia/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZW5pYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Resenia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZW5pYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Vacaciones/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjYWNpb25lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Ventas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC MASTER/Documents/1- DISEÑO Y DESARROLLO/Tienda_Cece_COMPLETO/Tienda_Cece/Tienda_Cece/Tienda_Cece/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-cphd4byh8z

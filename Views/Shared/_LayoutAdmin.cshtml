@@ -1,0 +1,341 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<Users> SignInManager
+@inject UserManager<Users> UserManager
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Admin - Cece</title>
+
+    <!-- Custom fonts for this template-->
+    <link href="~/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+    <!-- Custom styles for this template-->
+    <link href="~/css/sb-admin-2.min.css" rel="stylesheet">
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.2/css/all.css" crossorigin="anonymous" />
+
+    <style>
+        .notification-container {
+            display: none;
+            position: fixed;
+            background-color: white;
+            border: 1px solid #ddd;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            width: 300px;
+            max-height: 400px;
+            overflow-y: auto;
+            z-index: 1000;
+        }
+
+        #high-stock-container {
+            bottom: 100px; /* Ajusta según sea necesario */
+            right: 20px;
+            float: left; /* Coloca el contenedor a la izquierda */
+            margin-right: 10px; /* Ajusta el margen entre los contenedores */
+        }
+
+        #low-stock-container {
+            bottom: 100px; /* Ajusta según sea necesario */
+            right: 340px; /* Ajusta la posición horizontal */
+            float: left; /* Coloca el contenedor a la izquierda */
+        }
+
+        .notification-container .notification {
+            padding: 15px;
+            border-bottom: 1px solid #ddd;
+        }
+
+            .notification-container .notification:last-child {
+                border-bottom: none;
+            }
+
+        .floating-button {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #f39c12;
+            border: none;
+            border-radius: 50%;
+            width: 60px;
+            height: 60px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            cursor: pointer;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            z-index: 1000; /* Ensure it's above other content */
+            font-size: 18px;
+        }
+
+        .notification-count {
+            position: absolute;
+            top: 5px;
+            right: 10px;
+            background-color: red;
+            color: white;
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 12px;
+        }
+    </style>
+
+
+
+</head>
+
+<body id="page-top">
+    <!-- Page Wrapper -->
+    <div id="wrapper">
+        <!-- Sidebar -->
+        <ul class="navbar-nav bg-dark sidebar sidebar-dark accordion" id="accordionSidebar">
+            <!-- Sidebar - Brand -->
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" asp-controller="Home" asp-action="Admin">
+                <div class="sidebar-brand-icon rotate-n-15">
+                    <i class="fa-solid fa-heart" style="color: #b42727;"></i>
+                </div>
+                <div class="sidebar-brand-text mx-3">Tienda Cece</div>
+            </a>
+
+            <!-- Divider -->
+            <hr class="sidebar-divider my-0">
+
+            <!-- Nav Item - Dashboard -->
+            <li class="nav-item active">
+                <a class="nav-link" href="~/Productos/Dashboard">
+                    <i class="fas fa-fw fa-tachometer-alt"></i>
+                    <span>Dashboard</span>
+                </a>
+            </li>
+
+            <!-- Divider -->
+            <hr class="sidebar-divider">
+
+            <!-- Nav Item - Pages Collapse Menu -->
+            <li class="nav-item">
+                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsePages" aria-expanded="true" aria-controls="collapsePages">
+                    <i class="fas fa-fw fa-folder"></i>
+                    <span>Administración </span>
+                </a>
+                <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
+                    <div class="bg-white py-2 collapse-inner rounded">
+                        <a asp-controller="Categorias" asp-action="Index" class="dropdown-item">Categorías</a>
+                        <a asp-controller="Productos" asp-action="Index" class="dropdown-item">Productos</a>
+                        <a asp-controller="Producto_Imagen" asp-action="Index" class="dropdown-item">Imágenes de Productos</a>
+                        <a asp-controller="Proveedores" asp-action="Index" class="dropdown-item">Proveedores</a>
+                        <a asp-controller="Compras" asp-action="Index" class="dropdown-item">Compras</a>
+                        <a asp-controller="Ventas" asp-action="Index" class="dropdown-item">Ventas</a>
+                        <a asp-controller="Puestos" asp-action="Index" class="dropdown-item">Puestos de trabajo</a>
+                        <a asp-controller="Empleados" asp-action="Index" class="dropdown-item">Empleados</a>
+                        <a asp-controller="Vacaciones" asp-action="Index" class="dropdown-item">Vacaciones</a>
+                        <a asp-controller="Incapacidades" asp-action="Index" class="dropdown-item">Incapacidades</a>
+                        <a asp-controller="Users" asp-action="Index" class="dropdown-item">Usuarios</a>
+                    </div>
+                </div>
+            </li>
+
+            <!-- Divider -->
+            <hr class="sidebar-divider">
+
+            <!-- Heading -->
+            <div class="text-center sidebar-heading">
+                <a class="nav-link" asp-controller="Home" asp-action="Index">Volver a la tienda</a>
+            </div>
+
+            <!-- Divider -->
+            <hr class="sidebar-divider d-none d-md-block">
+
+            <!-- Sidebar Toggler (Sidebar) -->
+            <div class="text-center d-none d-md-inline">
+                <button class="rounded-circle border-0" id="sidebarToggle"></button>
+            </div>
+        </ul>
+        <!-- End of Sidebar -->
+        <!-- Content Wrapper -->
+        <div id="content-wrapper" class="d-flex flex-column">
+            <!-- Main Content -->
+            <div id="content">
+                <!-- Topbar -->
+                <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
+                    <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
+                        <i class="fa fa-bars"></i>
+                    </button>
+
+                    <ul class="navbar-nav ml-auto">
+                        <!-- Nav Item - User Information -->
+                        <li class="nav-item dropdown no-arrow">
+                            <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <i class="fa-solid fa-user text-dark pe-2"></i>
+                                @if (SignInManager.IsSignedIn(User))
+                                {
+                                    <span class="mr-2 d-none d-lg-inline text-gray-600 small">@UserManager.GetUserName(User)</span>
+                                }
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="userDropdown">
+                                @if (SignInManager.IsSignedIn(User))
+                                {
+                                    <a id="manage" class="nav-link btn btn-link border-0" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Profile</a>
+
+                                    <form id="logoutForm" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                                        <button id="logout" type="submit" class="nav-link btn btn-link text-dark border-0">Logout</button>
+                                    </form>
+                                }
+                                else
+                                {
+                                    <a class="dropdown-item" id="login" asp-area="Identity" asp-page="/Account/Login">Login</a>
+                                }
+                            </div>
+                        </li>
+                    </ul>
+                </nav>
+                <!-- End of Topbar -->
+                <!-- Begin Page Content -->
+                <div class="container-fluid">
+                    @RenderBody()
+                </div>
+            </div>
+            <!-- End of Main Content -->
+            <!-- Footer -->
+            <footer class="sticky-footer bg-white">
+                <div class="container my-auto">
+                    <div class="copyright text-center my-auto">
+                        <span>Copyright &copy; Your Website 2021</span>
+                    </div>
+                </div>
+            </footer>
+            <!-- End of Footer -->
+        </div>
+        <!-- End of Content Wrapper -->
+    </div>
+    <!-- End of Page Wrapper -->
+    <div class="notification-container" id="high-stock-container">
+        <!-- Contenedor para alertas de alto stock -->
+    </div>
+
+    <div class="notification-container" id="low-stock-container">
+        <!-- Contenedor para alertas de bajo stock -->
+    </div>
+
+    <button class="floating-button" id="notification-button">
+        <i class="fas fa-bell"></i>
+        <span class="notification-count" id="notification-count">0</span>
+    </button>
+
+
+    <!-- Logout Modal-->
+    <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"></span>
+                    </button>
+                </div>
+                <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
+                <div class="modal-footer">
+                    <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
+                    <a class="btn btn-primary" href="login.html">Logout</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript-->
+    <script src="~/vendor/jquery/jquery.min.js"></script>
+    <script src="~/vendor/js/bootstrap.bundle.min.js"></script>
+    <script src="~/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="~/js/sb-admin-2.min.js"></script>
+    <script src="~/vendor/chart.js/Chart.min.js"></script>
+    <script src="~/js/chart-area-demo.js"></script>
+    <script src="~/js/chart-pie-demo.js"></script>
+
+    <!-- Custom Script for Notifications -->
+    <script>
+        $(document).ready(function () {
+            $("#notification-button").on("click", function () {
+                $("#high-stock-container").toggle();
+                $("#low-stock-container").toggle();
+                loadNotifications();
+            });
+
+            // Cargar las notificaciones al cargar la página
+            loadNotifications();
+        });
+
+        function loadNotifications() {
+            // Función para cargar notificaciones de alto stock
+            $.ajax({
+                url: '/Productos/GetHighStockProducts',
+                method: 'GET',
+                success: function (data) {
+                    var container = $("#high-stock-container");
+                    var notificationCount = $("#notification-count");
+                    container.empty();
+                    if (data.length > 0) {
+                        notificationCount.text(data.length);
+                        $("#notification-indicator").show(); // Mostrar el indicador si hay notificaciones
+                        data.forEach(function (product) {
+                            container.append('<div class="notification">' +
+                                '<strong>Alerta de exceso de producto:</strong> ' + '<br>' +
+                                '<strong>Producto:</strong> ' + product.nombre_Producto + '<br>' +
+                                '<strong>Stock:</strong> ' + product.cantidad_Stock +
+                                '</div>');
+                        });
+                    } else {
+                        notificationCount.text("0");
+                        $("#notification-indicator").hide(); // Ocultar el indicador si no hay notificaciones
+                        container.append('<div class="notification">No hay productos acumulados con más de 15 unidades en stock.</div>');
+                    }
+                },
+                error: function (xhr, status, error) {
+                    console.error('Error al cargar notificaciones de alto stock:', error);
+                }
+            });
+
+            // Función para cargar notificaciones de bajo stock
+            $.ajax({
+                url: '/Productos/GetLowStockProducts',
+                method: 'GET',
+                success: function (data) {
+                    var container = $("#low-stock-container");
+                    var notificationCount = $("#notification-count");
+                    container.empty();
+                    if (data.length > 0) {
+                        notificationCount.text(data.length);
+                        $("#notification-indicator").show(); // Mostrar el indicador si hay notificaciones
+                        data.forEach(function (product) {
+                            container.append('<div class="notification">' +
+                                '<strong>Alerta de bajo stock:</strong> ' + '<br>' +
+                                '<strong>Producto:</strong> ' + product.nombre_Producto + '<br>' +
+                                '<strong>Stock:</strong> ' + product.cantidad_Stock +
+                                '</div>');
+                        });
+                    } else {
+                        notificationCount.text("0");
+                        $("#notification-indicator").hide(); // Ocultar el indicador si no hay notificaciones
+                        container.append('<div class="notification">No hay productos con menos de 5 unidades en stock.</div>'); // Cambiar el texto de la alerta
+                    }
+                },
+                error: function (xhr, status, error) {
+                    console.error('Error al cargar notificaciones de bajo stock:', error);
+                }
+            });
+        }
+    </script>
+
+</body>
+</html>

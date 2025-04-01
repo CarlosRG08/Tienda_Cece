@@ -1,0 +1,219 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_Layout";
+}
+
+
+<!-- Carrousel Start -->
+<div class="contenedor">
+    <div id="carouselExampleControls"
+         class="carousel slide"
+         data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="img/carousel/ca1.png" class="d-block w-100" alt="..." />
+            </div>
+            <div class="carousel-item">
+                <img src="img/carousel/ca2.jpg" class="d-block w-100" alt="..." />
+            </div>
+            <div class="carousel-item">
+                <img src="img/carousel/ca2.jpg" class="d-block w-100" alt="..." />
+            </div>
+        </div>
+        <button class="carousel-control-prev"
+                type="button"
+                data-bs-target="#carouselExampleControls"
+                data-bs-slide="prev">
+            <span class="icon" aria-hidden="true">
+                <i class="fa-solid fa-chevron-left"></i>
+            </span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next"
+                type="button"
+                data-bs-target="#carouselExampleControls"
+                data-bs-slide="next">
+            <span class="icon" aria-hidden="true">
+                <i class="fa-solid fa-chevron-right"></i>
+            </span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+</div>
+<!-- Carrousel End -->
+<!-- Modal Search Start -->
+<div class="modal fade"
+     id="searchModal"
+     tabindex="-1"
+     aria-labelledby="exampleModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog modal-fullscreen">
+        <div class="modal-content rounded-0">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">
+                    Search by keyword
+                </h5>
+                <button type="button"
+                        class="btn-close"
+                        data-bs-dismiss="modal"
+                        aria-label="Close"></button>
+            </div>
+            <div class="modal-body d-flex align-items-center">
+                <div class="input-group w-75 mx-auto d-flex">
+                    <input type="search"
+                           class="form-control p-3"
+                           placeholder="keywords"
+                           aria-describedby="search-icon-1" />
+                    <span id="search-icon-1" class="input-group-text p-3">
+                        <i class="fa fa-search"></i>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Modal Search End -->
+<!-- Bestsaler Product Start -->
+
+<section class="py-5">
+    <div class="container px-4 px-lg-5 mt-5">
+        <div class="text-center mx-auto mb-5" style="max-width: 50%">
+            <h3 class="display-6 text-primary">Productos más vendidos</h3>
+            <p class="text-dark">
+                Áca te mostramos algunos de nuestros productos más vendidos.
+            </p>
+        </div>
+        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+            <div class="col mb-5">
+                <div class="position-relative product-item shadow-sm">
+                    <div class="product-img">
+                        <a href="" class="enlace-especial">
+                            <img src="img/anillo.jpg" class="img-fluid" alt="" />
+                        </a>
+                    </div>
+
+                    <div class="p-4">
+                        <h4>
+                            <a href="" class="text-dark enlace-especial">Anillo</a>
+                        </h4>
+                        <p>Lorem ipsum dolor sit amet consectetur</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col mb-5">
+                <div class="position-relative product-item shadow-sm">
+                    <div class="product-img">
+                        <a href="" class="enlace-especial">
+                            <img src="img/collar.jpg" class="img-fluid" alt="" />
+                        </a>
+                    </div>
+
+                    <div class="p-4">
+                        <h4>
+                            <a href="" class="text-dark enlace-especial">Collar</a>
+                        </h4>
+                        <p>Lorem ipsum dolor sit amet consectetur</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col mb-5">
+                <div class="position-relative product-item shadow-sm">
+                    <div class="product-img">
+                        <a href="" class="enlace-especial">
+                            <img src="img/aretes.jpg"
+                                 class="img-fluid"
+                                 alt="" />
+                        </a>
+                    </div>
+
+                    <div class="p-4">
+                        <h4>
+                            <a href="" class="text-dark enlace-especial">Aretes</a>
+                        </h4>
+                        <p>Lorem ipsum dolor sit amet consectetur</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col mb-5">
+                <div class="position-relative product-item shadow-sm">
+                    <div class="product-img">
+                        <a href="" class="enlace-especial">
+                            <img src="img/aretes.jpg"
+                                 class="img-fluid"
+                                 alt="" />
+                        </a>
+                    </div>
+
+                    <div class="p-4">
+                        <h4>
+                            <a href="" class="text-dark enlace-especial">Aretes</a>
+                        </h4>
+                        <p>Lorem ipsum dolor sit amet consectetur</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <a href="#" class="btn bg-secondary px-4 py-2 mb-4 text-light">
+                    Ver más productos
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div id="whatsapp">
+    <a id="whatsappButton" class="btn btn-circle" href="#">
+        <i class="fa-brands fa-whatsapp"></i>
+    </a>
+</div>
+
+<div id="chatbot">
+    <button id="chatButton" class="btn btn-circle" onclick="toggleChat()">
+        <i class="fa-solid fa-comment-dots fa-flip-horizontal fa-lg"></i>
+    </button>
+    <div id="chatbotContainer" class="p-3">
+        <div id="messages"></div>
+        <div id="chatInput" class="input-group mb-4">
+            <input type="text" id="userInput" class="form-control" placeholder="Escribe un mensaje..." onkeypress="handleKeyPress(event)">
+            <div class="input-group-append">
+                <button class="btn" onclick="sendMessage()">Enviar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<template id="messageTemplate">
+    <div class="message">
+        <span></span>
+    </div>
+</template>
+
+<script src="main.js" defer></script>
+
+<!-- Script para establecer el enlace de WhatsApp Web -->
+<script>
+    // Función para establecer dinámicamente el enlace a WhatsApp Web
+    function setWhatsappLink(phoneNumber) {
+        var whatsappButton = document.getElementById('whatsappButton');
+        // Cambia el enlace para abrir WhatsApp Web
+        whatsappButton.href = 'https://web.whatsapp.com/send?phone=' + phoneNumber;
+        // Añade el atributo 'target' para abrir en una nueva pestaña si es necesario
+        whatsappButton.setAttribute('target', '_blank');
+    }
+
+    // Llamada a la función para establecer el número de teléfono
+    // Supongamos que el número de teléfono de la tienda es '123456789'
+    setWhatsappLink('+50687842491');
+</script>

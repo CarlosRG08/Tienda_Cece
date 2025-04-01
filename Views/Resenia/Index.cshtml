@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Tienda_Cece.Models.Resenia>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<Users> SignInManager
+@inject UserManager<Users> UserManager
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+<!-- Testimonial Start -->
+<div class="container-fluid testimonial py-5">
+    <div class="container py-5">
+        <div class="testimonial-header text-center mb-5">
+            <h4 class="text-primary">Reseñas de nuestros clientes</h4>
+            @if (SignInManager.IsSignedIn(User))
+            {
+                <div class="pt-2 d-flex justify-content-start">
+                    <a asp-action="Create" class="btn px-4 py-2 mb-4 text-light" style="background-color:#5cb85c;">Añadir reseña</a>
+                </div>
+            }
+        </div>
+        <div class="owl-carousel testimonial-carousel">
+            @foreach (var item in Model)
+            {
+                <div class="testimonial-item img-border-radius bg-light rounded p-4">
+                    <div class="position-relative">
+                        <i class="fa fa-quote-right fa-2x text-secondary position-absolute" style="bottom: 30px; right: 0;"></i>
+                        <div class="mb-4 pb-4 border-bottom border-secondary">
+                            <p class="mb-0">@item.resenia</p>
+                        </div>
+                        <div class="d-flex align-items-center flex-nowrap">
+                            <div class="bg-secondary">
+                                @if (item.Usuario.ProfilePicture != null)
+                                {
+                                    <img src="data:image/png;base64,@(Convert.ToBase64String(item.Usuario.ProfilePicture))" class="img-fluid" style="width: 100px; height: 100px;" alt="User-Profile-Image" />
+                                }
+                                else
+                                {
+                                    <img src="~/img/icon-image-not-found.jpg" class="img-fluid" style="width: 100px; height: 100px;" alt="User-Profile-Image" />
+                                }
+                            </div>
+                            <div class="ms-4 d-block">
+                                <h6 class="text-dark">@item.Usuario.Name</h6>
+                                <h5 class="text-dark">@item.Usuario.LastName</h5>
+                                @if (SignInManager.IsSignedIn(User))
+                                {
+                                    // Verificar si el usuario actual es el mismo que creó el comentario
+                                    var currentUser = await UserManager.GetUserAsync(User);
+                                    if (currentUser.Id == item.UsuarioId)
+                                    {
+                                        <div class="d-flex justify-content-start">
+                                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn px-4 me-2 py-2 mb-4 text-light" style="background-color:#ffc107;">Edit</a>
+                                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn px-4 py-2 mb-4 text-light" style="background-color: #f44336;">Delete</a>
+                                        </div>
+                                    }
+                                }
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+<!-- Testimonial End -->

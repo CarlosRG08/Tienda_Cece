@@ -1,0 +1,84 @@
+﻿@page
+@model Tienda_Cece.Areas.Identity.Pages.Account.Manage.EmailModel
+
+@{
+    ViewData["Title"] = "Manage Email";
+    ViewData["ActivePage"] = ManageNavPages.Email;
+}
+
+<div class="page-content page-container" id="page-content" >
+    <div class="padding">
+        <div class="row container d-flex justify-content-center">
+            <div class="col-xl-12">
+                <div class="card user-card-full">
+                    <div class="row m-l-0 m-r-0">
+                        <div class="col-sm-4 bg-c-lite-green user-profile">
+                            <div class="card-block">
+                                <div class="m-b-25">
+                                    @if (Model.Input.ProfilePicture != null && Model.Input.ProfilePicture.Length > 0)
+                                    {
+                                        string imageBase64 = Convert.ToBase64String(Model.Input.ProfilePicture);
+                                        string imageDataURL = string.Format("data:image/png;base64,{0}", imageBase64);
+                                        <img src="@imageDataURL" alt="User-Profile-Image" />
+                                    }
+                                    else
+                                    {
+                                        <img src="~/img/icon-image-not-found.jpg" alt="Default Profile Image" />
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-8">
+                            <div class="card-block">
+                                <h5 class="m-b-20 p-b-5 b-b-default f-w-600" style="color:#a63030;">
+                                    Información de perfil
+                                </h5>
+                                <form method="post" enctype="multipart/form-data">
+                                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                                <label for="Name" class="m-b-10 f-w-600">Nombre</label>
+                                                <input asp-for="Input.Name" class="form-control" />
+                                                <span asp-validation-for="Input.Name" class="text-danger"></span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                                <label for="LastName" class="m-b-10 f-w-600">Apellido</label>
+                                                <input asp-for="Input.LastName" class="form-control" />
+                                                <span asp-validation-for="Input.LastName" class="text-danger"></span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                                <label for="PhoneNumber" class="m-b-10 pt-2 f-w-600">Número de teléfono</label>
+                                                <input asp-for="Input.PhoneNumber" class="form-control" />
+                                                <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                                <label for="profilePicture" class="m-b-10 pt-2 f-w-600">Imagen de Perfil</label>
+                                                <input type="file" name="profilePicture" class="form-control-file" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="text-md-center pt-2">
+                                        <button type="submit" class="btn bg-primary px-4 py-2 mb-4 text-dark">Guardar</button>
+                                        <a href="/Identity/Account/Manage/Index" class="btn bg-secondary px-4 py-2 mb-4 text-light">Cancelar</a>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

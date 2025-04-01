@@ -1,0 +1,275 @@
+﻿@model IEnumerable<Tienda_Cece.Models.Venta>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Admin - Cece</title>
+
+    <!-- Custom fonts for this template-->
+    <link href="~/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+    <!-- Icon Font Stylesheet -->
+    <link rel="stylesheet"
+          href="https://use.fontawesome.com/releases/v6.4.2/css/all.css"
+          crossorigin="anonymous" />
+
+    <!-- Custom styles for this template-->
+    <link href="~/css/sb-admin-2.min.css" rel="stylesheet">
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<body>
+    <div class="container">
+        <div class="table-wrapper">
+            <div class="bg-dark">
+                <div class="table-title p-2">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <h2 class="h5 pl-2" style="color: #ffffff;"><b>Administrar Ventas</b></h2>
+                        </div>
+                        <div class="col-sm-6 d-flex justify-content-end">
+                            <a href="#addVentaModal" class="btn fw-bold" data-toggle="modal" style="color: #ffffff; background-color:#5cb85c; font-size:0.90rem;">
+                                <i class="fa-solid fa-plus"></i><span>Agregar Nueva Venta</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <table class="table table-striped table-hover" style="background-color: #ffffff; color:#000;">
+                <thead>
+                    <tr>
+                        <th>ID Venta</th>
+                        <th>Usuario</th>
+                        <th>Producto</th>
+                        <th>Precio Unitario</th>
+                        <th>Cantidad Producto</th>
+                        <th>Total</th>
+                        <th>Estado</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var venta in Model)
+                    {
+                        <tr>
+                            <td>@venta.Id_venta</td>
+                            <td>@venta.Usuario?.UserName</td>
+                            <td>@venta.Producto?.Nombre_Producto</td>
+                            <td>@venta.Precio_Unitario</td>
+                            <td>@venta.Cantidad_Producto</td>
+                            <td>@venta.Total</td>
+                            <td>
+                                @if (venta.Estado)
+                                {
+                                    <span class="badge badge-success">Activo</span>
+                                }
+                                else
+                                {
+                                    <span class="badge badge-secondary">Inactivo</span>
+                                }
+                            </td>
+                            <td>
+                                <a href="#editVentaModal" class="edit" data-toggle="modal" data-id="@venta.Id_venta"><i class="fa-solid fa-pen" style="color: #ffc107;" data-toggle="tooltip" title="Edit"></i></a>
+                                @*<a href="#deleteVentaModal" class="delete" data-toggle="modal" data-id="@venta.Id_venta"><i class="fa-solid fa-trash" style="color: #f44336;" data-toggle="tooltip" title="Delete"></i></a>*@
+                                <a href="#toggleStatusVentaModal" class="toggleStatus" data-toggle="modal" data-id="@venta.Id_venta">
+                                    @if (venta.Estado)
+                                    {
+                                        <i class="fa-solid fa-toggle-on" style="color: #28a745;" data-toggle="tooltip" title="Desactivar"></i>
+                                    }
+                                    else
+                                    {
+                                        <i class="fa-solid fa-toggle-off" style="color: #dc3545;" data-toggle="tooltip" title="Activar"></i>
+                                    }
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <!-- Placeholder for Pagination (if needed) -->
+        </div>
+    </div>
+
+    <!-- Modal Añadir Venta -->
+    <div id="addVentaModal" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <form method="post" asp-controller="Ventas" asp-action="Create">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Agregar Venta</h4>
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <label>Usuario</label>
+                            <select class="form-control" name="UsuarioId" required>
+                                @foreach (var usuario in ViewBag.Users)
+                                {
+                                    <option value="@usuario.Value">@usuario.Text</option>
+                                }
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>Producto</label>
+                            <select class="form-control" name="Id_Producto" required>
+                                @foreach (var producto in ViewBag.Productos)
+                                {
+                                    <option value="@producto.Value">@producto.Text</option>
+                                }
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>Precio Unitario</label>
+                            <input type="number" step="0.01" class="form-control" name="Precio_Unitario" required />
+                        </div>
+                        <div class="form-group">
+                            <label>Cantidad Producto</label>
+                            <input type="number" class="form-control" name="Cantidad_Producto" required />
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <input type="button" class="btn btn-default" data-dismiss="modal" value="Cancelar" />
+                        <input type="submit" class="btn btn-success" value="Agregar" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Editar Venta -->
+    <div id="editVentaModal" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <form method="post" asp-controller="Ventas" asp-action="Edit">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Editar Venta</h4>
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <input type="hidden" id="edit-id-venta" name="Id_venta" />
+                        <div class="form-group">
+                            <label>Usuario</label>
+                            <select class="form-control" name="UsuarioId" id="edit-usuario-id" required>
+                                @foreach (var usuario in ViewBag.Users)
+                                {
+                                    <option value="@usuario.Value">@usuario.Text</option>
+                                }
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>Producto</label>
+                            <select class="form-control" name="Id_Producto" id="edit-id-producto" required>
+                                @foreach (var producto in ViewBag.Productos)
+                                {
+                                    <option value="@producto.Value">@producto.Text</option>
+                                }
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>Precio Unitario</label>
+                            <input type="number" step="0.01" class="form-control" id="edit-precio-unitario" name="Precio_Unitario" required />
+                        </div>
+                        <div class="form-group">
+                            <label>Cantidad de Producto</label>
+                            <input type="number" class="form-control" id="edit-cantidad-producto" name="Cantidad_Producto" required />
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <input type="button" class="btn btn-default" data-dismiss="modal" value="Cancelar" />
+                        <input type="submit" class="btn btn-info" value="Guardar" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Eliminar Venta -->
+    <div id="deleteVentaModal" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <form method="post" asp-controller="Ventas" asp-action="Delete">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Eliminar Venta</h4>
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <p>¿Está seguro de que desea eliminar esta venta?</p>
+                        <p class="text-warning"><small>Esta acción no se puede deshacer.</small></p>
+                        <input type="hidden" id="delete-id-venta" name="id" />
+                    </div>
+                    <div class="modal-footer">
+                        <input type="button" class="btn btn-default" data-dismiss="modal" value="Cancelar" />
+                        <input type="submit" class="btn btn-danger" value="Eliminar" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Modal Activar/Desactivar Venta -->
+    <div id="toggleStatusVentaModal" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <form id="toggleStatusVentaForm" method="post" action="/Ventas/ToggleStatus">
+                    <input type="hidden" id="toggleStatus-id-Venta" name="Id_venta" />
+                    <div class="modal-header">
+                        <h4 class="modal-title">Cambiar Estado de la Venta</h4>
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <p>¿Está seguro de que desea cambiar el estado de esta Venta?</p>
+                    </div>
+                    <div class="modal-footer">
+                        <input type="button" class="btn btn-default" data-dismiss="modal" value="Cancelar" />
+                        <input type="submit" class="btn btn-danger" value="Cambiar Estado" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Funciones de JS para Editar y Eliminar-->
+    <script>
+        // Obtener datos para editar
+        $('#editVentaModal').on('show.bs.modal', function (event) {
+            var button = $(event.relatedTarget); // Botón que activó el modal
+            var id = button.data('id'); // Extraer información de atributos data-*
+            $.get("/Ventas/Get/" + id, function (data) {
+                $('#edit-id-venta').val(data.id_venta);
+                $('#edit-usuario-id').val(data.usuarioId);
+                $('#edit-id-producto').val(data.id_Producto);
+                $('#edit-precio-unitario').val(data.precio_Unitario);
+                $('#edit-cantidad-producto').val(data.cantidad_Producto);
+            });
+        });
+
+        // Preparar datos para eliminar
+        $('#deleteVentaModal').on('show.bs.modal', function (event) {
+            var button = $(event.relatedTarget); // Botón que activó el modal
+            var id = button.data('id'); // Extraer información de atributos data-*
+            $('#delete-id-venta').val(id); // Actualizar el campo oculto del formulario con el ID
+        });
+
+        // Preparar datos para activar/desactivar
+        $('#toggleStatusVentaModal').on('show.bs.modal', function (event) {
+            var button = $(event.relatedTarget); // Botón que activó el modal
+            var id = button.data('id'); // Extraer información de atributos data-*
+            var estado = button.data('estado'); // Extraer el estado actual
+            $('#toggleStatus-id-Venta').val(id);
+            $('#toggleStatus-estado').val(estado);
+        });
+    </script>
+</body>
+</html>

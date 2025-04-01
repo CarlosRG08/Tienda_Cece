@@ -1,0 +1,229 @@
+﻿@model IEnumerable<Tienda_Cece.Models.Proveedor>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Admin - Cece</title>
+
+    <!-- Custom fonts for this template-->
+    <link href="~/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+    <!-- Icon Font Stylesheet -->
+    <link rel="stylesheet"
+          href="https://use.fontawesome.com/releases/v6.4.2/css/all.css"
+          crossorigin="anonymous" />
+
+    <!-- Custom styles for this template-->
+    <link href="~/css/sb-admin-2.min.css" rel="stylesheet">
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<body>
+    <div class="container">
+        <div class="table-wrapper">
+            <div class="bg-dark">
+                <div class="table-title p-2">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <h2 class="h5 pl-2" style="color: #ffffff;"><b>Administrar Proveedores</b></h2>
+                        </div>
+                        <div class="col-sm-6 d-flex justify-content-end">
+                            <a href="#addProveedorModal" class="btn fw-bold" data-toggle="modal" style="color: #ffffff; background-color:#5cb85c; font-size:0.90rem;">
+                                <i class="fa-solid fa-plus"></i><span>Agregar Nuevo Proveedor</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <table class="table table-striped table-hover" style="background-color: #ffffff; color:#000;">
+                    <thead>
+                        <tr>
+                            <th>ID Proveedor</th>
+                            <th>Nombre Proveedor</th>
+                            <th>Website</th>
+                            <th>Estado</th>
+                            <th>Acciones</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.id_proveedor</td>
+                                <td>@item.nom_proveedor</td>
+                                <td><a href="@item.website" target="_blank">Ver Website</a></td>
+                                <td>
+                                    @if (item.Estado)
+                                    {
+                                        <span class="badge badge-success">Activo</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="badge badge-danger">Inactivo</span>
+                                    }
+                                </td>
+                                <td>
+                                    <a href="#editProveedorModal" class="edit" data-toggle="modal" data-id="@item.id_proveedor" data-nom="@item.nom_proveedor" data-website="@item.website">
+                                        <i class="material-icons" data-toggle="tooltip" title="Editar">
+                                            <i class="fa-solid fa-pen" style="color: #ffc107;"></i>
+                                        </i>
+                                    </a>
+                                    <a href="#toggleStatusProveedorModal" class="toggleStatus" data-toggle="modal" data-id="@item.id_proveedor" data-estado="@item.Estado">
+                                        @if (item.Estado)
+                                        {
+                                            <i class="fa-solid fa-toggle-on" style="color: #28a745;" data-toggle="tooltip" title="Desactivar"></i>
+                                        }
+                                        else
+                                        {
+                                            <i class="fa-solid fa-toggle-off" style="color: #dc3545;" data-toggle="tooltip" title="Activar"></i>
+                                        }
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                <!-- Pagination Placeholder -->
+            </div>
+        </div>
+
+        <!-- Modal Añadir Proveedor -->
+        <div id="addProveedorModal" class="modal fade">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <form id="create-form" method="post">
+                        <div class="modal-header">
+                            <h4 class="modal-title">Agregar Proveedor</h4>
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="form-group">
+                                <label>Nombre Proveedor</label>
+                                <input type="text" class="form-control" name="nom_proveedor" required />
+                            </div>
+                            <div class="form-group">
+                                <label>Website</label>
+                                <input type="url" class="form-control" name="website" required />
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <input type="button" class="btn btn-default" data-dismiss="modal" value="Cancelar" />
+                            <input type="submit" class="btn btn-success" value="Agregar" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal Editar Proveedor -->
+        <div id="editProveedorModal" class="modal fade">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <form id="edit-form" method="post">
+                        <div class="modal-header">
+                            <h4 class="modal-title">Editar Proveedor</h4>
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        </div>
+                        <div class="modal-body">
+                            <input type="hidden" id="edit-id" name="id_proveedor" />
+                            <div class="form-group">
+                                <label>Nombre Proveedor</label>
+                                <input type="text" class="form-control" id="edit-nom-proveedor" name="nom_proveedor" required />
+                            </div>
+                            <div class="form-group">
+                                <label>Website</label>
+                                <input type="url" class="form-control" id="edit-website" name="website" required />
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <input type="button" class="btn btn-default" data-dismiss="modal" value="Cancelar" />
+                            <input type="submit" class="btn btn-info" value="Guardar" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal Activar/Desactivar Proveedor -->
+        <div id="toggleStatusProveedorModal" class="modal fade">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <form id="toggleStatusProveedorForm" method="post" action="/Proveedores/ToggleStatus">
+                        <div class="modal-header">
+                            <h4 class="modal-title">Cambiar Estado del Proveedor</h4>
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        </div>
+                        <div class="modal-body">
+                            <p>¿Está seguro de que desea cambiar el estado de este proveedor?</p>
+                            <input type="hidden" name="Id_Proveedor" id="toggleStatus_Id_Proveedor" />
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+                            <button type="submit" class="btn btn-danger">Cambiar Estado</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <!-- Funciones de JS para Editar y Cambiar Estado -->
+        <script>
+            $(document).ready(function () {
+                // Crear Proveedor
+                $('#create-form').submit(function (e) {
+                    e.preventDefault();
+                    $.post("/Proveedores/Create", $(this).serialize(), function (data) {
+                        location.reload();
+                    });
+                });
+
+                // Obtener datos para editar
+                $('#editProveedorModal').on('show.bs.modal', function (event) {
+                    var button = $(event.relatedTarget);
+                    var id = button.data('id');
+                    $.get("/Proveedores/Get/" + id, function (data) {
+                        $('#edit-id').val(data.id_proveedor);
+                        $('#edit-nom-proveedor').val(data.nom_proveedor);
+                        $('#edit-website').val(data.website);
+                    });
+                });
+
+                // Editar Proveedor
+                $('#edit-form').submit(function (e) {
+                    e.preventDefault();
+                    $.post("/Proveedores/Edit/" + $('#edit-id').val(), $(this).serialize(), function (data) {
+                        location.reload();
+                    });
+                });
+
+                // Obtener ID para cambiar estado
+                $('#toggleStatusProveedorModal').on('show.bs.modal', function (event) {
+                    var button = $(event.relatedTarget);
+                    var id = button.data('id');
+                    $('#toggleStatus_Id_Proveedor').val(id);
+                });
+
+
+                $('#toggleStatusProveedorForm').submit(function (e) {
+                    e.preventDefault();
+                    $.post($(this).attr('action'), $(this).serialize(), function (data) {
+                        if (data.success) {
+                            location.reload();
+                        } else {
+                            alert("Error al cambiar el estado del proveedor.");
+                        }
+                    });
+                });
+            });
+        </script>
+</body>
+</html>
